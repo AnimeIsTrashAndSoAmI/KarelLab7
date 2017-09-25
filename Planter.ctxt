@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Planter
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=st\ av\ dir\ numBeepers
+comment1.target=Planter(int,\ int,\ Direction,\ int)
+comment2.params=fieldSpecs
+comment2.target=void\ setField(int[][])
+comment3.params=
+comment3.target=void\ plantField()
+comment4.params=
+comment4.target=void\ printField()
+numComments=5

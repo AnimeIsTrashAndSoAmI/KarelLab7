@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Harvester
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=st\ av\ dir\ numBeepers
+comment1.target=Harvester(int,\ int,\ Direction,\ int)
+comment2.params=
+comment2.target=void\ harvest()
+comment3.params=
+comment3.target=void\ printField()
+numComments=4
